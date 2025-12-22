@@ -11,7 +11,10 @@
 > arXiv 2025. (\* indicates equal contribution)
 
 ## 🎬 Teaser Video
-https://github.com/user-attachments/assets/5f599ad0-0922-414b-a8ab-e789da068efa
+
+https://github.com/user-attachments/assets/37f2ea18-569d-4fa5-9fe7-68ad694492e5
+
+
 
 
 ## 📝 Citation
