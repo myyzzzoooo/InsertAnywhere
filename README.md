@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2510.26236-b31b1b.svg)](https://arxiv.org/abs/2512.17504)
 [![Project Page](https://img.shields.io/badge/Project_Page-Visit-blue.svg)](https://myyzzzoooo.github.io/InsertAnywhere/)
 
-> [Hoiyeong Jin\*](https://myyzzzoooo.github.io/), [Hyojin Jang\*](https://whit3snow.github.io/), [Jeongho Kim\*](https://scholar.google.co.kr/citations?user=4SCCBFwAAAAJ&hl=ko), [Junha Hyung](https://junhahyung.github.io/), [Kinam Kim](https://kinam0252.github.io/), [Dongjin Kim](https://k00dj-19.github.io/), [Huijin Choi](http://www.linkedin.com/in/huijin-choi-45490a13b), [Hyunji Kim](ttps://www.linkedin.com/in/hyeonji-kim-200a3a169), and [Jaegul Choo](https://sites.google.com/site/jaegulchoo/)
+> [Hoiyeong Jin\*](https://myyzzzoooo.github.io/), [Hyojin Jang\*](https://whit3snow.github.io/), [Jeongho Kim\*](https://scholar.google.co.kr/citations?user=4SCCBFwAAAAJ&hl=ko), [Junha Hyung](https://junhahyung.github.io/), [Kinam Kim](https://kinam0252.github.io/), [Dongjin Kim](https://k00dj-19.github.io/), [Huijin Choi](http://www.linkedin.com/in/huijin-choi-45490a13b), [Hyunji Kim](https://www.linkedin.com/in/hyeonji-kim-200a3a169), and [Jaegul Choo](https://sites.google.com/site/jaegulchoo/)
 > 
 > **DAVIAN, KAIST AI**  
 > arXiv 2025. (\* indicates equal contribution)
