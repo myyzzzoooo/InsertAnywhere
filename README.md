@@ -12,7 +12,8 @@
 
 ## 🎬 Teaser Video
 
-https://github.com/user-attachments/assets/37f2ea18-569d-4fa5-9fe7-68ad694492e5
+
+https://github.com/user-attachments/assets/6771c717-c6bf-45b3-aeda-410b3d210c0b
 
 
 
